@@ -1,0 +1,29 @@
+{
+  "name": "test_nodejs01",
+  "version": "0.0.0",
+  "description": "This example app is created node.js.",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.6.1",
+    "logfmt": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinith4/node-sample.git"
+  },
+  "keywords": [
+    "example",
+    "heroku",
+    "node.js"
+  ],
+  "author": "infinith4",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/infinith4/node-sample/issues"
+  },
+  "homepage": "https://github.com/infinith4/node-sample"
+}
